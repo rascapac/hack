@@ -1,1 +1,1 @@
-fetch("http://localhost/activate-plugin/1");
+fetch("http://localhost:5000/activate-plugin/1");
